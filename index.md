@@ -3,7 +3,8 @@
 
 
 
-| Creative     | Responsive     | Elegant       |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+
+
+| Creative                |    Responsive            | Elegant                   |
+| some text here          |    some more here        |  and definitely some here |
+
