@@ -1,2 +1,2 @@
 theme: jekyll-theme-architect
-navigation: about (https://carmendesigns.github.io/about)
+navigation:  [About](/about/)
