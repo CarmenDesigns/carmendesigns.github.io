@@ -6,5 +6,6 @@
 
 
 | Creative                |    Responsive            | Elegant                   |
+| :------:                |  :-------:               |  :------:                 |
 | some text here          |    some more here        |  and definitely some here |
 
