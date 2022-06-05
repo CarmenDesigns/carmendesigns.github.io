@@ -3,7 +3,7 @@
 
 
 
-| Left-aligned | Center-aligned | Right-aligned |
+| Creative     | Responsive     | Elegant       |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
